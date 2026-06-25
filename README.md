@@ -109,8 +109,9 @@ The dataset contains customer-related information including:
 - README.md
 ---
 
-## Author
-Omkar Patil
+## 👨‍💻 Author
+
+**Omkar Patil**
 Aspiring Data Analyst | Excel | Power BI
 
 GitHub:
