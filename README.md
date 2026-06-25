@@ -110,7 +110,14 @@ The dataset contains customer-related information including:
 ---
 
 ## Author
-Omkar Patil
-Omkar Patil
+Omkar Patil (Aspiring Data Analyst | Excel | Power BI)
 
-Aspiring Data Analyst | Excel | Power BI
+GitHub:
+https://github.com/datawith-omkar
+
+LinkedIn:
+(https://www.linkedin.com/in/omkarpatil-patil1515)
+
+Resume
+( )
+
